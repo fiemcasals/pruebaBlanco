@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- pruebaBlanco
 
-_Generado automaticamente el 2026-08-20T14:24:06.223Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-08-20T14:24:25.919Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -12,4 +12,5 @@ graph TD
     REQ_1787233593724["RF-01: Respuesta y saludo cruzado del Desarrollador 2"]
     REQ_1787233602143["RF-02: Confirmación de interacción del Desarrollador 1"]
   end
+  REQ_1787233583344 --> REQ_1787233575852
 ```
