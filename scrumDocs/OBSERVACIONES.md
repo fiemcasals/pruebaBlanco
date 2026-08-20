@@ -1,0 +1,2 @@
+La idea es generar trabajos para que haya conflictos y ver como se gestionan desde la app
+vamos a tener 2 desarrolladores. 1 PO, 1 sm. la idea es que los dev generen doc, tipo requerimientos, y ver como se arma el grafo, el gantt, van cambiando de color segun su estadio, lo bloquen y basicamente probemos toda la app, pero sin entrar a codigos
