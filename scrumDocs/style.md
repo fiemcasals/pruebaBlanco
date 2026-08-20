@@ -1,0 +1,1 @@
+no tiene estilos, la idea es que sean simplmenete documento .md
