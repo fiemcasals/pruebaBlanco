@@ -1,6 +1,6 @@
 # Plan de Requerimientos — pruebaBlanco
 
-_Generado automáticamente el 2026-08-20T13:27:14.288Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-08-20T13:33:45.580Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
