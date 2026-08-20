@@ -1,0 +1,8 @@
+========================================
+PRESENTACIÓN PERSONAL - DESARROLLADOR 1
+========================================
+Nombre: Germán
+Rol: Desarrollador 1 (developer)
+Proyecto: pruebaBlanco
+Estado: Registrado e iniciando participación en el proyecto.
+Perfil: Desarrollador participante en el flujo de pruebas y sincronización interactiva de requerimientos.
