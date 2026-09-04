@@ -1,6 +1,6 @@
 # Historias de Usuario -- pruebaBlanco
 
-_Generado automaticamente el 2026-08-20T14:24:49.543Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-04T13:58:59.023Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación de integrantes del equipo
 
