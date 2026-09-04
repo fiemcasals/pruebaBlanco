@@ -1,6 +1,6 @@
 # Requerimientos -- pruebaBlanco
 
-_Generado automaticamente el 2026-08-20T14:24:50.615Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-04T13:59:00.004Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación de integrantes del equipo
 
